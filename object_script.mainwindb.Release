@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/dialog.o
+./release/dialogupdate.o
+./release/dialogsearch.o
+./release/dialoglogin.o
+./release/moc_mainwindow.o
+./release/moc_dialog.o
+./release/moc_dialogupdate.o
+./release/moc_dialogsearch.o
+./release/moc_dialoglogin.o
+);
